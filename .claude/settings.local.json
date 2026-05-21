@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python -m venv \"c:/expense-tracker/expense-tracker/.venv\")"
+      "Bash(python -m venv \"c:/expense-tracker/expense-tracker/.venv\")",
+      "WebSearch"
     ]
   }
 }
