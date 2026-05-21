@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m venv \"c:/expense-tracker/expense-tracker/.venv\")"
+    ]
+  }
+}
